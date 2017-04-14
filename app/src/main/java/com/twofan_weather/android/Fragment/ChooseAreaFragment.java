@@ -16,9 +16,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.towfan_weather.android.MainActivity;
 import com.towfan_weather.android.R;
-import com.towfan_weather.android.WeatherActivity;
+import com.twofan_weather.android.MainActivity;
+import com.twofan_weather.android.WeatherActivity;
 import com.twofan_weather.android.db.City;
 import com.twofan_weather.android.db.County;
 import com.twofan_weather.android.db.Province;
