@@ -1,0 +1,5 @@
+//快捷键
+
+1、生成get.set方法 alt+insert
+2、自动补全返回值。ctrl+alt+v
+3、覆盖父类方法
